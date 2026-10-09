@@ -1,4 +1,4 @@
-# Vis Paper Reading Group / データ可視化に関する論文勉強会
+# Paper Reading Group / 論文勉強会
 
 We hold a weekly paper reading group to stay updated on the latest advancements in Data Visualization. In each session, one or two members present and critically review top-tier conference papers (e.g., TVCG, IEEE VIS, EuroVis, PacificVis), followed by an open discussion on potential research ideas.
 
