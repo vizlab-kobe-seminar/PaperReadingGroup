@@ -6,6 +6,7 @@
 ## 2026年度
 |日付|名前|論文情報|発表スライド|
 |---|---|---|---|
+|2026年10月21日|柴原大輝|[Hyeon Jeon, et al. "Stop Misusing t-SNE and UMAP for Visual Analytics", IEEE Vis 2026](https://arxiv.org/pdf/2506.08725)|[資料](https://github.com/vizlab-kobe-seminar/2026_BThesis__RyotaroOkamoto/blob/main/Survey/20261021/20261021.pdf)|
 |2026年10月21日|岡本嶺太郎|[Li, Ziwei, et al. "GS-Surrogate: Deformable Gaussian Splatting for Parameter Space Exploration of Ensemble Simulations", arXiv preprint arXiv:2604.06358, 2026.](https://arxiv.org/abs/2604.06358)|[資料](https://github.com/vizlab-kobe-seminar/2026_BThesis__RyotaroOkamoto/blob/main/Survey/20261021/20261021.pdf)|
 |2026年10月15日|村瀬太郎|[Li, Ziwei, et al. "FA-INR: Adaptive Implicit Neural Representations for Interpretable Exploration of Simulation Ensembles", IEEE vis 2026.](https://github.com/vizlab-kobe-seminar/2025_DThesis__TaroMurase/blob/main/Survey/PresentationMaterial/20261015FA-INR.pdf)|[資料](https://github.com/vizlab-kobe-seminar/2025_DThesis__TaroMurase/blob/main/Survey/PresentationMaterial/20261015FA-INR.pdf)|
 |2026年10月08日|竹之内香穂|[Hollmann, Noah, et al. "Accurate predictions on small data with a tabular foundation model." Nature 637.8045 (2025): 319-326.](https://www.nature.com/articles/s41586-024-08328-6)|[資料](https://github.com/vizlab-kobe-seminar/2025_MThesis__KahoTakenouchi/blob/main/Survey/20261008.pdf)|
