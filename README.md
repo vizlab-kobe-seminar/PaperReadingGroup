@@ -15,4 +15,9 @@ Teams（https://teams.microsoft.com/meet/49551128372267?p=4dlfA5Vt2lo17I7qs7）
 #### 2026年度
 |日付|名前|論文情報|発表スライド|
 |---|---|---|---|
-|10月08日|竹之内香穂|[Hollmann, Noah, et al. "Accurate predictions on small data with a tabular foundation model." Nature 637.8045 (2025): 319-326.](https://www.nature.com/articles/s41586-024-08328-6)|[資料](https://github.com/vizlab-kobe-seminar/2025_MThesis__KahoTakenouchi/blob/main/Survey/20261008.pdf)|
+|11月4日|竹之内香穂|[Hollmann, Noah, et al. "Accurate predictions on small data with a tabular foundation model." Nature 637.8045 (2025): 319-326.](https://www.nature.com/articles/s41586-024-08328-6)|[資料](https://github.com/vizlab-kobe-seminar/2025_MThesis__KahoTakenouchi/blob/main/Survey/20261008.pdf)|
+|11月4日|||[資料]()|
+|11月11日|||[資料]()|
+|11月11日|||[資料]()|
+|11月18日|||[資料]()|
+|11月18日|||[資料]()|
