@@ -5,10 +5,10 @@
 We hold a weekly paper reading group to stay updated on the latest advancements in Data Visualization. In each session, one or two members present and critically review top-tier conference papers (e.g., TVCG, IEEE VIS, EuroVis, PacificVis), followed by an open discussion on potential research ideas.
 
 ### 日時
-毎週水曜日 13:30~14:50
+毎週水曜日 13:25~14:50
 
 ### 開催方法
-Teams（https://teams.microsoft.com/meet/49551128372267?p=4dlfA5Vt2lo17I7qs7）
+Teams：https://teams.microsoft.com/meet/49551128372267?p=4dlfA5Vt2lo17I7qs7
 
 ### 発表リスト
 
@@ -16,8 +16,10 @@ Teams（https://teams.microsoft.com/meet/49551128372267?p=4dlfA5Vt2lo17I7qs7）
 |日付|名前|論文情報|発表スライド|
 |---|---|---|---|
 |11月4日|竹之内香穂|[Hollmann, Noah, et al. "Accurate predictions on small data with a tabular foundation model." Nature 637.8045 (2025): 319-326.](https://www.nature.com/articles/s41586-024-08328-6)|[資料](https://github.com/vizlab-kobe-seminar/2025_MThesis__KahoTakenouchi/blob/main/Survey/20261008.pdf)|
-|11月4日|||[資料]()|
-|11月11日|||[資料]()|
-|11月11日|||[資料]()|
-|11月18日|||[資料]()|
-|11月18日|||[資料]()|
+|11月4日||新村康太|[資料]()|
+|11月11日|三宅和輝||[資料]()|
+|11月11日|松崎吏矩||[資料]()|
+|11月18日|村瀬太郎||[資料]()|
+|11月18日|小河柊太||[資料]()|
+|11月25日|中咲侑大||[資料]()|
+|11月25日|十河旭||[資料]()|
