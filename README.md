@@ -15,7 +15,7 @@ Teams：https://teams.microsoft.com/meet/49551128372267?p=4dlfA5Vt2lo17I7qs7
 #### 2026年度
 |日付|名前|論文情報|発表スライド|
 |---|---|---|---|
-|11月4日|竹之内香穂|[Tang, Maofeng, and Hairong Qi. "The Extra Tokens Matter: Disentangled Representation Learning with Vision Transformers." Proceedings of the 43rd International Conference on Machine Learning (ICML). 2026.](https://icml.cc/virtual/2026/poster/61912)|[資料](https://github.com/vizlab-kobe-seminar/2025_MThesis__KahoTakenouchi/blob/main/Survey/20261008.pdf)|
+|11月4日|竹之内香穂|[Tang, Maofeng, and Hairong Qi. "The Extra Tokens Matter: Disentangled Representation Learning with Vision Transformers." Proceedings of the 43rd International Conference on Machine Learning (ICML). 2026.](https://icml.cc/virtual/2026/poster/61912)|[資料](https://github.com/vizlab-kobe-seminar/PaperReadingGroup/blob/main/Presentation/TheExtraTokensMatter.pdf)|
 |11月4日|新村康太||[資料]()|
 |11月11日|三宅和輝||[資料]()|
 |11月11日|松崎吏矩||[資料]()|
