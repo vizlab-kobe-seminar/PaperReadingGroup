@@ -22,4 +22,4 @@ Teams：https://teams.microsoft.com/meet/49551128372267?p=4dlfA5Vt2lo17I7qs7
 |11月18日|村瀬太郎|[Zhang, W., et al., "From Scalars to Time Series: Rethinking Implicit Neural Representations for Time-Varying Volumetric Data", IEEE vis 2026.](https://arxiv.org/abs/2607.20970)|[資料](https://github.com/vizlab-kobe-seminar/PaperReadingGroup/blob/main/Presentation/20261118/20261118FromScalarsToTimeSeriesRethinkingImplicitNeuralRepresentationsForTime-VaryingVolumetric.pdf)|
 |11月18日|小河柊太|[Kawakami, Y., et al., "ClimateSOM: A Visual Analysis Workflow for Climate Ensemble Datasets", arXiv:2508.06732, 2025.](https://arxiv.org/abs/2508.06732)|[資料](https://github.com/vizlab-kobe-seminar/PaperReadingGroup/blob/main/Presentation/20261118/ClimateSOM-AVisualAnalysisWorkflowforClimateEnsembleDatasets.pdf)|
 |11月25日|中咲侑大||[資料]()|
-|11月25日|十河旭||[資料]()|
+|11月25日|十河旭|[Liu, W., et al., "Scalable Semantic Steering of Embedding Projections", IEEE vis 2026.](https://arxiv.org/abs/2607.03978)|[資料]()|
